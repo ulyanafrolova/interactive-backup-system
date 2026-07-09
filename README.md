@@ -47,9 +47,9 @@ The engine runs as an interactive shell. Available commands:
 
 ```bash
 # Compile the project
-make build
+make
 
 # Start the interactive engine
-./backup_system
+./backup-system
 
 
